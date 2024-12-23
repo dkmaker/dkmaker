@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Christian Pedersen (DKMaker)
-Formerly known as ZenturaCP
+Previously ZenturaCP - Changed to reflect my personal account separate from Zentura work activities
 
 ## 🚀 About Me
 I work as a CTO at Zentura A/S, where I'm passionate about leveraging AI in software development. My preferred development environment combines VSCode with cutting-edge AI tools like Cline and Aider Chat. I specialize in Azure-based solutions and have a keen interest in developing tools that enhance developer productivity.
