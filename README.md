@@ -8,11 +8,11 @@ I work as a CTO at Zentura A/S, where I'm passionate about leveraging AI in soft
 I've developed several Model Context Protocol (MCP) servers that help streamline daily development tasks:
 
 ### My Custom MCP Servers
-- 🌐 [mcp-rest-api](https://github.com/zenturacp/mcp-rest-api) - A TypeScript-based MCP server for testing REST APIs through Cline
-- 🗄️ [mcp-azure-tablestorage](https://github.com/zenturacp/mcp-azure-tablestorage) - A MCP Server for querying Azure Table Storage during local development
-- 🧪 [mcp-function-app-tester](https://github.com/zenturacp/mcp-function-app-tester) - A MCP Server for testing local Azure Function App APIs
-- 🔍 [mcp-tavily-server](https://github.com/zenturacp/mcp-tavily-server) - Tavily MCP Server for Cline
-- 🤖 [mcp-perplexity-server](https://github.com/zenturacp/mcp-perplexity-server) - Perplexity MCP Server for Cline
+- 🌐 [mcp-rest-api](https://github.com/dkmaker/mcp-rest-api) - A TypeScript-based MCP server for testing REST APIs through Cline
+- 🗄️ [mcp-azure-tablestorage](https://github.com/dkmaker/mcp-azure-tablestorage) - A MCP Server for querying Azure Table Storage during local development
+- 🧪 [mcp-function-app-tester](https://github.com/dkmaker/mcp-function-app-tester) - A MCP Server for testing local Azure Function App APIs
+- 🔍 [mcp-tavily-server](https://github.com/dkmaker/mcp-tavily-server) - Tavily MCP Server for Cline
+- 🤖 [mcp-perplexity-server](https://github.com/dkmaker/mcp-perplexity-server) - Perplexity MCP Server for Cline
 
 For more MCP servers and resources, check out the [Model Context Protocol servers repository](https://github.com/modelcontextprotocol/servers) and the [Glama.ai MCP servers](https://glama.ai/mcp/servers) - an all-in-one AI workspace that provides standardized tools, resources, and templates for AI model interactions across various services.
 
@@ -33,4 +33,4 @@ Want to know more about Orange Makers? Visit our [GitHub Organization](https://g
 - Interests: AI Integration, Cloud Solutions, IoT, Maker Projects
 
 ## 📫 Get in Touch
-Feel free to explore my [repositories](https://github.com/zenturacp) and [NPM packages](https://www.npmjs.com/~dkmaker), or reach out for collaborations or discussions about AI-assisted development, Azure solutions, or maker projects!
+Feel free to explore my [repositories](https://github.com/dkmaker) and [NPM packages](https://www.npmjs.com/~dkmaker), or reach out for collaborations or discussions about AI-assisted development, Azure solutions, or maker projects!
