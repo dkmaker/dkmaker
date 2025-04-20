@@ -32,5 +32,15 @@ Want to know more about Orange Makers? Visit our [GitHub Organization](https://g
 - Languages: TypeScript, C++, PowerShell
 - Interests: AI Integration, Cloud Solutions, IoT, Maker Projects
 
+## 🤖 AutoClickers
+I've developed various autoclickers for different games. Check out my collection:
+
+- 🎮 [Roblox - Lifting Simulator Autoclicker](https://github.com/dkmaker/AutoClickers) - An automated clicker specifically designed for the Roblox Lifting Simulator game
+
+## ☕ Support My Work
+If you find my projects helpful or interesting, consider supporting me:
+
+- [Buy Me a Coffee](https://www.buymeacoffee.com/dkmaker) - Your support helps me continue creating and maintaining these projects!
+
 ## 📫 Get in Touch
 Feel free to explore my [repositories](https://github.com/dkmaker) and [NPM packages](https://www.npmjs.com/~dkmaker), or reach out for collaborations or discussions about AI-assisted development, Azure solutions, or maker projects!
